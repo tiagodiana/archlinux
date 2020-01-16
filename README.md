@@ -1,2 +1,3 @@
-# Archlinux-i3
-Configurações Arch Linux + I3
+# Archlinux
+
+Configurações Arch Linux + I3 e mais alguns scripts
