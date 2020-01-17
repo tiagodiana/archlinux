@@ -1,0 +1,8 @@
+# Tamanho total e livre do disco
+df -h | awk '/sda2/ {print $4 "/" $2}'
+
+# Total e em uso da memoria ram
+free -h | awk '/^Mem.:/ {print $3 "/" $2}'
+
+# Temperatura do processador
+sensors | awk  '/^temp1:/ {print $2}'
