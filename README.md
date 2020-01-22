@@ -7,6 +7,7 @@
 <ul>
   <li><h4>Fonts</h4>
     <ul><li>Fontawesome: # pacman -S ttf-font-awesome</li></ul>
+    <ul><li>Hack: # pacman -S ttf-hack</li></ul>
   <li><h4>Terminals</h4>
     <ul><li>Kitty: # pacman -S kitty kitty-terminfo</li></ul>
     <ul><li>Urxvt: # pacman -S rxvt-unicode rxvt-unicode-terminfo</li></ul>
