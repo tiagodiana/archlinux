@@ -3,7 +3,7 @@
 # Instalando NodeJs
 
 echo "Instalando NodeJs e NPM"
-sudo pacman -S nodejs npm
+sudo pacman -S zip unzip nodejs npm
 
 # Instalando React Native CLI
 echo "Instalando React Native CLI"
@@ -31,3 +31,4 @@ echo "export PATH=${PATH}:${ANDROID_HOME}/platform-tools" >> ~/.bashrc
 
 ~/Android/Sdk/tools/bin/sdkmanager "platform-tools" "platforms;android-27" "build-tools;27.0.3"
 
+rm sdk-tools-linux-4333796.zip
