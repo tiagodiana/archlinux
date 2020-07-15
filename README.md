@@ -11,6 +11,10 @@
   <li><h4>Terminals</h4>
     <ul><li>Kitty: # pacman -S kitty kitty-terminfo</li></ul>
     <ul><li>Urxvt: # pacman -S rxvt-unicode rxvt-unicode-terminfo</li></ul>
+	<li><h4>Others</h4>
+    <ul><li>Polybar: $ yay -S polybar</li></ul>
+    <ul><li>Feh: # pacman -S feh</li></ul>
+
 </ul>
 <h3>Screenshots</h3>
 <img src="i3-config/Imagens/screenshots/main.jpg">
