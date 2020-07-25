@@ -5,7 +5,7 @@
 <h2>Arch Linux + I3 + polybar + ncmpcpp</h2>
 <h3>Dependêcias</h3>
 <ul>
-    <li>Fontawesome: # pacman -S ttf-font-awesome ttf-hack kitty kitty-terminfo rxvt-unicode rxvt-unicode-terminfo feh rofi</li>
+    <li># pacman -S ttf-font-awesome ttf-hack kitty kitty-terminfo rxvt-unicode rxvt-unicode-terminfo feh rofi</li>
     <li>Polybar: $ yay -S polybar</li>
 </ul>
 <h3>Screenshots</h3>
